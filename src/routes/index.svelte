@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>CO2-left</h1>
+<p>La quantité de CO<sub>2</sub> déja dans l'atmosphère et le budget restant</p>
+
+
